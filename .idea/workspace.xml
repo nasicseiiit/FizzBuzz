@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a632d725-184c-4252-960a-929415e13628" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/FizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/getters/InputDataForFizz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helper/PrintOutputData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/values/FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/FizzBuzzTest.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ctK7In8kX4bx0mJnaPEyC1elpV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FizzBuzz">
+    <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FizzBuzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/values" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/values/FizzBuzz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for FizzBuzzTest.AlphaPhraseTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="FizzBuzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;FizzBuzzTest.AlphaPhraseTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for FizzBuzzTest.FizzBuzzTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="FizzBuzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;FizzBuzzTest.FizzBuzzTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for FizzBuzzTest.FizzBuzzTest.testCheckIsMultiplesOf3ReturnFizz" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="FizzBuzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;FizzBuzzTest.FizzBuzzTest.testCheckIsMultiplesOf3ReturnFizz&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for FizzBuzzTest.FizzBuzzTest.testIsMultiplesOf3And5ReturnFizzBuzz" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="FizzBuzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;FizzBuzzTest.FizzBuzzTest.testIsMultiplesOf3And5ReturnFizzBuzz&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FizzBuzz" />
+        <item itemvalue="Python tests.pytest for FizzBuzzTest.FizzBuzzTest" />
+        <item itemvalue="Python tests.pytest for FizzBuzzTest.FizzBuzzTest.testIsMultiplesOf3And5ReturnFizzBuzz" />
+        <item itemvalue="Python tests.pytest for FizzBuzzTest.FizzBuzzTest.testCheckIsMultiplesOf3ReturnFizz" />
+        <item itemvalue="Python tests.pytest for FizzBuzzTest.AlphaPhraseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a632d725-184c-4252-960a-929415e13628" name="Default Changelist" comment="" />
+      <created>1591342280035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591342280035</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom" timestamp="1591368986815">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.784@0.23.1440.784" timestamp="1591368986815" />
+    <state width="1419" height="192" key="GridCell.Tab.0.center" timestamp="1591368986815">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.784@0.23.1440.784" timestamp="1591368986815" />
+    <state width="1419" height="192" key="GridCell.Tab.0.left" timestamp="1591368986814">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.784@0.23.1440.784" timestamp="1591368986814" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right" timestamp="1591368986815">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.784@0.23.1440.784" timestamp="1591368986815" />
+    <state width="1419" height="239" key="GridCell.Tab.1.bottom" timestamp="1591359637234">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1419" height="239" key="GridCell.Tab.1.bottom/0.23.1440.784@0.23.1440.784" timestamp="1591359637234" />
+    <state width="1419" height="239" key="GridCell.Tab.1.center" timestamp="1591359637233">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1419" height="239" key="GridCell.Tab.1.center/0.23.1440.784@0.23.1440.784" timestamp="1591359637233" />
+    <state width="1419" height="239" key="GridCell.Tab.1.left" timestamp="1591359637233">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1419" height="239" key="GridCell.Tab.1.left/0.23.1440.784@0.23.1440.784" timestamp="1591359637233" />
+    <state width="1419" height="239" key="GridCell.Tab.1.right" timestamp="1591359637233">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state width="1419" height="239" key="GridCell.Tab.1.right/0.23.1440.784@0.23.1440.784" timestamp="1591359637233" />
+    <state x="385" y="131" width="670" height="676" key="search.everywhere.popup" timestamp="1591358495049">
+      <screen x="0" y="23" width="1440" height="784" />
+    </state>
+    <state x="385" y="131" width="670" height="676" key="search.everywhere.popup/0.23.1440.784@0.23.1440.784" timestamp="1591358495049" />
+  </component>
+</project>
