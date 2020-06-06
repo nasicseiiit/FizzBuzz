@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a632d725-184c-4252-960a-929415e13628" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/getters/InputDataForFizz.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/getters/InputDataForFizz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/helper/PrintOutputData.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/logger/PrintOutputData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/logger/PrintOutputData.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/logger/PrintOutputData.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/values/FizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/values/FizzBuzz.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/FizzBuzzTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/FizzBuzzTest.py" afterDir="false" />
     </list>
@@ -45,7 +43,7 @@
       <recent name="$PROJECT_DIR$/test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FizzBuzz">
+  <component name="RunManager" selected="Python tests.pytest for FizzBuzzTest.FizzBuzzTest">
     <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FizzBuzz" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,21 +63,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for FizzBuzzTest.AlphaPhraseTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="FizzBuzz" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;FizzBuzzTest.AlphaPhraseTest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest for FizzBuzzTest.FizzBuzzTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -127,13 +110,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for FizzBuzzTest.FizzBuzzTest.testIsMultiplesOf3ReturnFizz" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="FizzBuzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;FizzBuzzTest.FizzBuzzTest.testIsMultiplesOf3ReturnFizz&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.FizzBuzz" />
         <item itemvalue="Python tests.pytest for FizzBuzzTest.FizzBuzzTest" />
+        <item itemvalue="Python.FizzBuzz" />
+        <item itemvalue="Python tests.pytest for FizzBuzzTest.FizzBuzzTest.testIsMultiplesOf3ReturnFizz" />
         <item itemvalue="Python tests.pytest for FizzBuzzTest.FizzBuzzTest.testIsMultiplesOf3And5ReturnFizzBuzz" />
         <item itemvalue="Python tests.pytest for FizzBuzzTest.FizzBuzzTest.testCheckIsMultiplesOf3ReturnFizz" />
-        <item itemvalue="Python tests.pytest for FizzBuzzTest.AlphaPhraseTest" />
       </list>
     </recent_temporary>
   </component>
@@ -154,22 +152,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="192" key="GridCell.Tab.0.bottom" timestamp="1591423433062">
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom" timestamp="1591430667697">
       <screen x="0" y="23" width="1440" height="784" />
     </state>
-    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.784@0.23.1440.784" timestamp="1591423433062" />
-    <state width="1419" height="192" key="GridCell.Tab.0.center" timestamp="1591423433061">
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.784@0.23.1440.784" timestamp="1591430667697" />
+    <state width="1419" height="192" key="GridCell.Tab.0.center" timestamp="1591430667696">
       <screen x="0" y="23" width="1440" height="784" />
     </state>
-    <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.784@0.23.1440.784" timestamp="1591423433061" />
-    <state width="1419" height="192" key="GridCell.Tab.0.left" timestamp="1591423433061">
+    <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.784@0.23.1440.784" timestamp="1591430667696" />
+    <state width="1419" height="192" key="GridCell.Tab.0.left" timestamp="1591430667695">
       <screen x="0" y="23" width="1440" height="784" />
     </state>
-    <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.784@0.23.1440.784" timestamp="1591423433061" />
-    <state width="1419" height="192" key="GridCell.Tab.0.right" timestamp="1591423433062">
+    <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.784@0.23.1440.784" timestamp="1591430667695" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right" timestamp="1591430667696">
       <screen x="0" y="23" width="1440" height="784" />
     </state>
-    <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.784@0.23.1440.784" timestamp="1591423433062" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.784@0.23.1440.784" timestamp="1591430667696" />
     <state width="1419" height="239" key="GridCell.Tab.1.bottom" timestamp="1591359637234">
       <screen x="0" y="23" width="1440" height="784" />
     </state>

@@ -20,18 +20,18 @@ fizzBuzzOfNNumbers method retun the list of encoded numbers
 '''
 
 def fizzBuzzOfNNumbers(lower_bound,upper_bound):
-    result = []
-    for i in range(lower_bound,upper_bound+1):
-        result.append(fizzBuzz(i))
-    return result
+    encoded_numbers = []
+    for number in range(lower_bound,upper_bound+1):
+        encoded_numbers.append(fizzBuzz(number))
+    return encoded_numbers
 
 '''
 main function to get the input data and processing the data and printing the output
 '''
 def main():
     [lower_bound,upper_bound] = getInputData()
-    result = fizzBuzzOfNNumbers(lower_bound,upper_bound)
-    printOutput(result)
+    encoded_numbers = fizzBuzzOfNNumbers(lower_bound,upper_bound)
+    printOutput(encoded_numbers)
 
 if __name__ == "__main__":
     main() #calling main method

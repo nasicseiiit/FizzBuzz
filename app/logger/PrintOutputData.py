@@ -3,11 +3,11 @@
 The method printOutput will print the encoded numbers
 '''
 
-def printOutput(result):
+def printOutput(encoded_numbers):
     print("############################################")
     print("### Completed the number number encoding ###")
     print("############################################")
     print("Printing the encoded numbers to FIZZ Buzz")
     print("-------------------------------------")
-    for number_representation in result:
-        print(number_representation)
+    for encoded_number in encoded_numbers:
+        print(encoded_number)
