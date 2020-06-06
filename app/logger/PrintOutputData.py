@@ -1,4 +1,8 @@
 
+'''
+The method printOutput will print the encoded numbers
+'''
+
 def printOutput(result):
     print("############################################")
     print("### Completed the number number encoding ###")

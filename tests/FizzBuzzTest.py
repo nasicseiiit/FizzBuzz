@@ -4,6 +4,9 @@ from app.values.FizzBuzz import fizzBuzz
 
 class FizzBuzzTest(unittest.TestCase):
 
+    '''
+    Test case to is the multiple of 3 returns Fizz
+    '''
     def testIsMultiplesOf3ReturnFizz(self):
         self.assertEqual(fizzBuzz(3), "Fizz")
         self.assertEqual(fizzBuzz(9), "Fizz")
@@ -11,18 +14,28 @@ class FizzBuzzTest(unittest.TestCase):
         self.assertEqual(fizzBuzz(21), "Fizz")
         self.assertEqual(fizzBuzz(-3), "Fizz")
 
+    '''
+       Test case to is the multiple of 5 returns Buzz 
+    '''
     def testIsMultiplesOf5ReturnBuzz(self):
         self.assertEqual(fizzBuzz(-5), "Buzz")
         self.assertEqual(fizzBuzz(25), "Buzz")
         self.assertEqual(fizzBuzz(10), "Buzz")
         self.assertEqual(fizzBuzz(100), "Buzz")
 
+    '''
+       Test case to is the multiple of 15 returns FizzBuzz
+    '''
     def testIsMultiplesOf3And5ReturnFizzBuzz(self):
         self.assertEqual(fizzBuzz(-45), "FizzBuzz")
         self.assertEqual(fizzBuzz(30), "FizzBuzz")
         self.assertEqual(fizzBuzz(60), "FizzBuzz")
         self.assertEqual(fizzBuzz(15), "FizzBuzz")
+        self.assertEqual(fizzBuzz(15), "FizzBuzz")
 
+    '''
+       Test case whether the number is not divisble by 3 or 5 or 15 returns nmuber itself or not 
+    '''
     def testIsNumberNotDivisible3_5_15ReturnsNumber(self):
         self.assertEqual(fizzBuzz(-4), "-4")
         self.assertEqual(fizzBuzz(8), "8")
