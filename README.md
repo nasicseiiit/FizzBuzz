@@ -30,7 +30,7 @@ FizzBuzzTest.py        -> this file consist of 4 test cases
    
 #############################################
 
-#There are   helper file mentioned below
+#There are logger file mentioned below
 
    PrintOutputData.py 
 
