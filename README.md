@@ -1,5 +1,5 @@
-FizzBuzz
-=======
+#FizzBuzz
+
 Write a short program that prints each number from 1 to 100 on a new line.
 For each multiple of 3, print "Fizz" instead of the number.
 For each multiple of 5, print "Buzz" instead of the number.
@@ -11,6 +11,7 @@ Fizz, 28, 29, Fizz Buzz, 31, 32, Fizz, 34, Buzz, Fizz, …
 
 
 #Installation
+
 First, clone NthFibonacciAndIsItPrime using git
 
 _`git clone https://github.com/nasicseiiit/FizzBuzz`_
@@ -43,4 +44,5 @@ https://github.com/nasicseiiit/FizzBuzz/issues/new
 If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
 
 #Licensing
+
 This project is licensed under Unlicense license. This license does not require you to take the license with you to your project. 
