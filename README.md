@@ -22,6 +22,7 @@ Then, cd to the FizzBuzz folder
  sudo python setup.py install
 
 #Usage
+
 `fizzBuzz(1) #returns 1`
 
 `fizzBuzz(3) #returns Fizz `
