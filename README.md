@@ -9,33 +9,37 @@ Ex:
 Fizz Buzz, 16, 17, Fizz, 19, Buzz, Fizz, 22, 23, Fizz, Buzz, 26,
 Fizz, 28, 29, Fizz Buzz, 31, 32, Fizz, 34, Buzz, Fizz, …
 
-============================
-Steps to run the source code
-============================
-FizzBuzz.py is the source code file
-Please click on the FizzBuzz.py file then it will prompt for the lower bound and upper bound values for numbers range
-Once the user enters the input it code start encoding with the lower bound upto upperbound and will return result 
-according to the above problem
 
-Running test cases
-###################
+#Installation
+First, clone NthFibonacciAndIsItPrime using git
 
-FizzBuzzTest.py        -> this file consist of 4 test cases
+_`git clone https://github.com/nasicseiiit/FizzBuzz`_
 
-#############################################
+Then, cd to the FizzBuzz folder 
 
-#There are 1  getter file mentioned below
+ cd FizzBuzz/
+ 
+ sudo python setup.py install
 
-   InputDataForFizz.py 
-   
-#############################################
+#Usage
+`fizzBuzz(1) #returns 1`
 
-#There are logger file mentioned below
+`fizzBuzz(3) #returns Fizz `
 
-   PrintOutputData.py 
+`fizzBuzz(5) #returns Buzz `
 
-#############################################
+`fizzBuzz(15) #returns FizzBuzz `
 
-#There are 1  source file mentioned below
 
-    FizzBuzz.py 
+
+#Contributing
+
+As I am a beginner and writing the projects in GitHub. 
+If you have any ideas or improvements, just open an issue by clicking on below link and tell me what you think.
+
+https://github.com/nasicseiiit/FizzBuzz/issues/new
+
+If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
+
+#Licensing
+This project is licensed under Unlicense license. This license does not require you to take the license with you to your project. 
