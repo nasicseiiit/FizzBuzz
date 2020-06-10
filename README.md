@@ -21,8 +21,16 @@ Then, cd to the FizzBuzz folder
  cd FizzBuzz/
  
  sudo python setup.py install
+ 
+ then cd to the values folder in app
+ 
+ cd app/values
+ 
+ then execute below command
+ 
+ python FizzBuzz.py
 
-#Usage
+#Example
 
 `fizzBuzz(1) #returns 1`
 
