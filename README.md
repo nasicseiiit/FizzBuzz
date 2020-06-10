@@ -9,6 +9,9 @@ Ex:
 Fizz Buzz, 16, 17, Fizz, 19, Buzz, Fizz, 22, 23, Fizz, Buzz, 26,
 Fizz, 28, 29, Fizz Buzz, 31, 32, Fizz, 34, Buzz, Fizz, …
 
+#Requirements
+
+Please install python 3 and above
 
 #Installation
 
@@ -18,11 +21,17 @@ _`git clone https://github.com/nasicseiiit/FizzBuzz`_
 
 Then, cd to the FizzBuzz folder 
 
+# To build the project
+
  cd FizzBuzz/
  
  sudo python setup.py install
  
- then cd to the values folder in app
+#To run the project
+
+ cd FizzBuzz/ 
+ 
+ cd to the values folder in app
  
  cd app/values
  
